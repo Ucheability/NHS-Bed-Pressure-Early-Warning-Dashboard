@@ -30,3 +30,13 @@ The dashboard was designed to answer the following key operational and performan
 ### Governance Note
 
 The dataset contains aggregated operational data published by NHS England and does not contain any patient-identifiable information. The analysis was conducted using publicly available healthcare performance data.
+
+## 4. Key KPIs
+
+The dashboard focuses on the following key performance indicators (KPIs):
+
+- Average Daily Open Beds
+- Average Daily Occupied Beds
+- Average Daily Available Beds
+- Average Daily Unavailable Beds
+- Occupancy Rate (%)
