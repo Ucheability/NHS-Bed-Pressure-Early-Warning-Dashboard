@@ -66,3 +66,17 @@ Tracks changes in bed capacity and occupancy over time, helping stakeholders und
 - Trend analysis using line charts.
 - Comparative regional and trust-level analysis using bar and column charts.
 - Key Findings sections on each page to support decision-making and storytelling.
+
+  ## 📊 Dashboard Preview
+
+### Overview Dashboard
+![Overview Dashboard](overview_dashboard.png)
+
+### Trust Analysis Dashboard
+![Trust Analysis Dashboard](trust_analysis_dashboard.png)
+
+### Region Analysis Dashboard
+![Region Analysis Dashboard](region_analysis_dashboard.png)
+
+### Trend Analysis Dashboard
+![Trend Analysis Dashboard](trend_analysis_dashboard.png)
