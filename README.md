@@ -152,3 +152,10 @@ Based on the analysis, the following recommendations may support improved operat
 - Use regional benchmarking to identify best practices and improve resource utilisation.
 - Extend the analysis across multiple years to identify seasonal patterns and long-term trends in bed utilisation.
 - Combine capacity metrics with patient flow and discharge data to support more comprehensive operational decision-making.
+
+  ## Project Files
+
+- NHS_Bed_Pressure_Dashboard.pbix
+- Project Documentation (README)
+- Dashboard Screenshots
+ 
