@@ -19,3 +19,14 @@ The dashboard was designed to answer the following key operational and performan
 - How did bed utilisation trends vary between November 2023 and March 2024?
 - Which regions experienced the highest levels of unavailable beds?
 - Where were potential capacity constraints and operational pressures most evident?
+
+  ## 3. Data Source
+
+- **Source:** NHS England Daily Situation Reports (SitRep) Bed Availability and Occupancy Data.
+- **Reporting Period:** November 2023 – March 2024.
+- **Coverage:** NHS Trusts and Regions across England.
+- **Dataset Contents:** Open beds, occupied beds, unavailable beds, occupancy measures, reporting dates, trusts, and regional classifications.
+
+### Governance Note
+
+The dataset contains aggregated operational data published by NHS England and does not contain any patient-identifiable information. The analysis was conducted using publicly available healthcare performance data.
