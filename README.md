@@ -131,3 +131,24 @@ The project applied a structured data preparation, modelling, and visualisation 
 - Interactive Dashboard Design
 - Healthcare Operational Analytics
 - Data Storytelling
+
+  ## 8. Limitations
+
+This analysis is subject to several limitations:
+
+- The dataset represents aggregated operational reporting data and does not provide patient-level information.
+- Analysis is limited to the Winter 2023–24 reporting period and may not reflect longer-term trends.
+- Bed availability figures may be influenced by temporary operational changes, seasonal demand, and reporting practices.
+- The dashboard focuses on capacity and utilisation metrics and does not include clinical outcomes or patient experience measures.
+- Regional comparisons may be influenced by differences in population size, service provision, and healthcare demand.
+
+  ## 9. Recommendations
+
+Based on the analysis, the following recommendations may support improved operational planning and capacity management:
+
+- Continue monitoring occupancy rates to identify emerging pressure points and support proactive resource allocation.
+- Prioritise operational reviews for trusts consistently operating above 95% occupancy.
+- Explore opportunities to increase available bed capacity in regions experiencing sustained demand.
+- Use regional benchmarking to identify best practices and improve resource utilisation.
+- Extend the analysis across multiple years to identify seasonal patterns and long-term trends in bed utilisation.
+- Combine capacity metrics with patient flow and discharge data to support more comprehensive operational decision-making.
