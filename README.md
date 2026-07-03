@@ -80,3 +80,55 @@ Tracks changes in bed capacity and occupancy over time, helping stakeholders und
 
 ### Trend Analysis Dashboard
 ![Trend Analysis Dashboard](trend_analysis_dashboard.png)
+
+## 6. Analysis & Insights
+
+The dashboard highlights several important insights regarding NHS bed utilisation and operational pressure during Winter 2023–24:
+
+- Average daily open bed capacity was approximately 102,401 beds.
+- Average daily occupancy remained high at 93.7%, indicating sustained pressure on healthcare services.
+- Open and occupied bed capacity increased significantly between November and December before stabilising.
+- The Midlands recorded the highest overall open bed capacity during the reporting period.
+- East of England maintained the highest available bed capacity, supporting operational flexibility.
+- Several NHS trusts operated at occupancy rates above 95%, highlighting areas of significant healthcare demand.
+
+### Insights by Dashboard Page
+
+#### Overview Dashboard
+
+The Overview page provides a high-level assessment of bed capacity and utilisation, showing that occupancy remained consistently high throughout the winter period while available bed capacity varied across regions.
+
+#### Trust Analysis
+
+Trust-level analysis reveals substantial variation in occupancy rates and available bed capacity across providers. Several trusts operated near full occupancy, indicating heightened operational pressure.
+
+#### Region Analysis
+
+Regional analysis demonstrates differences in bed availability and occupancy across England. London recorded the highest occupancy rate, while the Midlands maintained the largest bed capacity.
+
+#### Trend Analysis
+
+Trend analysis shows increased bed utilisation during the winter months, with occupancy remaining consistently above 92% throughout the reporting period.
+
+## 7. Tools & Techniques
+
+The project applied a structured data preparation, modelling, and visualisation workflow using Microsoft Power BI.
+
+### Tools & Technologies
+
+- **Power BI Desktop:** Dashboard development, data modelling, visualisation, and report design.
+- **Power Query:** Data cleansing, transformation, column renaming, and data preparation.
+- **DAX (Data Analysis Expressions):** Creation of KPI measures including Open Beds, Occupied Beds, Available Beds, Unavailable Beds, and Occupancy Rate calculations.
+- **Microsoft Excel:** Initial data exploration, validation, pivot table analysis, and data quality checks.
+- **Data Visualisation:** KPI cards, line charts, clustered bar charts, column charts, slicers, and interactive filtering.
+
+### Techniques Applied
+
+- Data Cleaning and Validation
+- Data Modelling
+- KPI Development
+- Time-Series Analysis
+- Regional and Trust-Level Performance Analysis
+- Interactive Dashboard Design
+- Healthcare Operational Analytics
+- Data Storytelling
