@@ -111,7 +111,6 @@ Regional analysis demonstrates differences in bed availability and occupancy acr
 Trend analysis shows increased bed utilisation during the winter months, with occupancy remaining consistently above 92% throughout the reporting period.
 
 ## 7. Tools & Techniques
-
 The project applied a structured data preparation, modelling, and visualisation workflow using Microsoft Power BI.
 
 ### Tools & Technologies
